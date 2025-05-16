@@ -1,6 +1,7 @@
 /Users/lucashersche/zhaw/MDM/MDM/Projekt 2/src/main/java/com/emoji/controller/EmojiController.java
 /Users/lucashersche/zhaw/MDM/MDM/Projekt 2/src/main/java/com/emoji/training/SimpleTextDataset.java
 /Users/lucashersche/zhaw/MDM/MDM/Projekt 2/src/main/java/com/emoji/model/EmojiSentiment.java
+/Users/lucashersche/zhaw/MDM/MDM/Projekt 2/src/main/java/com/emoji/service/Models.java
 /Users/lucashersche/zhaw/MDM/MDM/Projekt 2/src/main/java/com/emoji/training/EmojiTextTrainer.java
 /Users/lucashersche/zhaw/MDM/MDM/Projekt 2/src/main/java/com/emoji/service/EmojiService.java
 /Users/lucashersche/zhaw/MDM/MDM/Projekt 2/src/main/java/com/emoji/EmojiSentimentApplication.java

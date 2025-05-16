@@ -1,0 +1,8 @@
+com/emoji/controller/EmojiController.class
+com/emoji/service/EmojiService$1.class
+com/emoji/training/SimpleTextDataset.class
+com/emoji/model/EmojiSentiment.class
+com/emoji/training/EmojiTextTrainer.class
+com/emoji/service/EmojiService.class
+com/emoji/EmojiSentimentApplication.class
+com/emoji/training/SimpleTextDataset$Builder.class
